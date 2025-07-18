@@ -1,7 +1,5 @@
 ---
-lab:
-    title: 'Load Data into a Relational Data Warehouse'
-    ilt-use: 'Lab'
+lab
 ---
 
 # Load Data into a Relational Data Warehouse

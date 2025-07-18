@@ -1,7 +1,5 @@
 ---
-lab:
-    title: 'Use an Apache Spark notebook in a pipeline'
-    ilt-use: 'Lab'
+lab
 ---
 
 # Use an Apache Spark notebook in a pipeline

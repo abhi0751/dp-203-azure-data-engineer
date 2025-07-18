@@ -1,7 +1,5 @@
 ---
-lab:
-    title: 'Build a data pipeline in Azure Synapse Analytics'
-    ilt-use: 'Lab'
+lab
 ---
 
 # Build a data pipeline in Azure Synapse Analytics
