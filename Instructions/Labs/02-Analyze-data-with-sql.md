@@ -1,7 +1,5 @@
 ---
-lab:
-    title: 'Query files using a serverless SQL pool'
-    ilt-use: 'Lab'
+lab
 ---
 
 # Query files using a serverless SQL pool
